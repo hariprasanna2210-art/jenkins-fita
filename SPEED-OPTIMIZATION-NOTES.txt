@@ -1,0 +1,11 @@
+Karai Marina speed optimization completed.
+
+Changes made:
+1. Compressed heavy images from ~36 MB to ~8.8 MB.
+2. Compressed videos from ~47 MB to ~22 MB while keeping usable quality.
+3. Added lazy loading and async decoding to all images.
+4. Kept videos as preload="none" and added lightweight poster thumbnails.
+5. Added browser cache + gzip compression rules in .htaccess.
+6. Removed unnecessary log files from final package.
+
+Upload all files to hosting/public_html. If Hostinger cache is enabled, clear cache after upload.

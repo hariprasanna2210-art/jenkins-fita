@@ -1,0 +1,14 @@
+Karai Marina Final V21 QA Notes
+
+Mobile Navigation:
+- Mobile submenu alignment fixed.
+- Dropdowns stay inside mobile menu width.
+- Submenu links are visible and not pushed to left.
+
+SEO Permalinks:
+- Root keyword permalink HTML pages are present.
+- Example live URL style: https://karaimarina.com/karaikal-food-street
+- .htaccess supports clean URL without .html.
+- sitemap.xml and canonical tags use karaimarina.com keyword URLs.
+
+Missing SEO pages: None
