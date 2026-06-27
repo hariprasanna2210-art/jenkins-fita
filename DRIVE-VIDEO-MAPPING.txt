@@ -1,0 +1,50 @@
+happy-coffee.html:
+  - Happy Coffee.mp4: https://drive.google.com/file/d/1bFOufdDwBSEqmicRYYaOgnmkM-pWks4v/preview
+suvai.html:
+  - Suvai 2.mp4: https://drive.google.com/file/d/15eQfG7Qx1sjKkRVXU-hkbTl1AOiQfQWN/preview
+  - Suvai.MOV: https://drive.google.com/file/d/11ypkVibtJx_LlTcJqI9gP7zDmo4DojQE/preview
+kimchi.html:
+  - Kimchi 2.mp4: https://drive.google.com/file/d/1hnNpx6U59bnGlHSNcCVG0gRV3oVpLDPw/preview
+  - Kimchi.MOV: https://drive.google.com/file/d/1ZlfYvioCVoU7EtS4qu6Z5ZsuNbnxY-30/preview
+o-my-waffle.html:
+  - O'my Waffle 2.mp4: https://drive.google.com/file/d/1Ae6U5Ey_p_75RU29stbTo-15G2uIiJaH/preview
+  - O'my Waffle.mp4: https://drive.google.com/file/d/160t8-dzeRaCaxy5JkIF9frQ4oGUz4cVD/preview
+fruitzilla.html:
+  - Fruitzilla 2.mp4: https://drive.google.com/file/d/1sjBRQNgQS35ytXZrCDuiQ4AYOxPXOdHs/preview
+  - Fruitzilla.mp4: https://drive.google.com/file/d/1sZSTqR6gT_TqroL9S8esUh0l3crwpcON/preview
+lazy-panda.html:
+  - Lazy Panda.MP4: https://drive.google.com/file/d/1lvyfbr0svfh7DHhbb6-6uReQ6ctkKerJ/preview
+grill-empire.html:
+  - Grill Empire 2.mp4: https://drive.google.com/file/d/1_sdnPThm0iPpJ0gJb299T_Z_K4rSsogD/preview
+  - Grill Empire.mp4: https://drive.google.com/file/d/1KenVjsxOM2toCFGnANROy7sIwZpwXFt8/preview
+her-s-galley.html:
+  - Her's Galley 2.mp4: https://drive.google.com/file/d/1oL5yHCC4dRaWKlgIklptbgSVoKzRAAHX/preview
+  - Her's Galley Unposted.mp4: https://drive.google.com/file/d/1lcJgab4jkksAUm4Xxpep5_M9c8kSJFF0/preview
+  - Her's Galley.mp4: https://drive.google.com/file/d/1JVhYnSaoK5PkkQ_KlbfgEyZw7gdiqgu8/preview
+sea-bites.html:
+  - SeaBites 2.mp4: https://drive.google.com/file/d/1WGkA7wX-nxOtMDwfjM8oqwvZLSUJs4nd/preview
+  - SeaBites.mp4: https://drive.google.com/file/d/1bIE2YXts1V6vwgS2nDXPfl7LMGdOudxc/preview
+
+General home videos:
+  - Karai Marina Intro.MOV: https://drive.google.com/file/d/10ElVyX_028CjLSPnsEhk4oODM5hn5J83/preview
+  - Karai Marina IPL.mp4: https://drive.google.com/file/d/1N9v4boFi40ruU8c_NQQZD2BYbsFGKcy9/preview
+  - Trip to Karai Marina.mp4: https://drive.google.com/file/d/1SOl58oyetnUrstkWGkV6NuiB1ezq3xrh/preview
+  - Shop Releasing.MP4: https://drive.google.com/file/d/11LfkhpdqQJRKPcNlYAbNKrU7lndnprU2/preview
+  - Surprise Reel.mp4: https://drive.google.com/file/d/153O70HHLjgZKHPdmRhF9I0fRPsBjv943/preview
+  - Review 1.mp4: https://drive.google.com/file/d/1vyLpHmhDz2VqXbVKapte8visPpRGjayW/preview
+  - Review 2.MOV: https://drive.google.com/file/d/1clPihkCH2I6EjV9XDlM5v3saIXPkynUg/preview
+  - Review 3.mp4: https://drive.google.com/file/d/1p762ikfx8ojdMoCurWSYtKpNUoOwDc_O/preview
+  - Review 4.mp4: https://drive.google.com/file/d/15s27NzlEeAZ5EZZTb4O1O1C2QomPk65v/preview
+  - Review 5.mp4: https://drive.google.com/file/d/1IVq2KJ1GxXIwTcVEjWGtqj9_xc1AR4a7/preview
+  - Review 6.MOV: https://drive.google.com/file/d/1Gp6pJIe8ME3ngu6vPdxP3hTuZG1ORriq/preview
+  - Review 7.mp4: https://drive.google.com/file/d/1b9NOGLTx1QGHzuoLiPcUL2y7aaNvJpL2/preview
+
+Lawn event videos:
+  - Lawn - Birthday function.mp4: https://drive.google.com/file/d/1CWJn-3WKG2KXKB0nnIthz9aILeamldat/preview
+  - Lawn Intro.mp4: https://drive.google.com/file/d/1MFVlLjidGWvpkH2utf9ecST_7WSKIoQM/preview
+
+Unmatched, kept on shops.html only to avoid wrong placement:
+  - Art and Artist.mp4: https://drive.google.com/file/d/1lj9xhvBgIvP0SvikARjpMyg6gKmv6F7m/preview
+  - Gas reel.mp4: https://drive.google.com/file/d/1k7O7tsqo9CFFpsMMrvQvfWLCu2DnmEuh/preview
+
+No exact video link found in supplied list for: red-chilli.html, kulfi-shop.html, chaat-spot.html

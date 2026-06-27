@@ -1,0 +1,28 @@
+Karai Marina final SEO + PHP mail QA notes
+Generated: 2026-06-11 11:01
+
+SEO permalink structure updated:
+- Keyword landing pages now exist at root level, for example:
+  https://karaimarina.com/karaikal-food-street
+  https://karaimarina.com/lawn-for-events-in-karaikal
+  https://karaimarina.com/open-lawn-for-wedding-in-karaikal
+- Old /seo/keyword URLs are redirected to /keyword through .htaccess.
+- Sitemap contains root keyword URLs, not /seo/ keyword URLs.
+- Canonical URLs on root keyword pages point to root keyword permalinks.
+- Duplicate /seo pages are marked noindex and redirect through .htaccess.
+
+PHP mail setup:
+- contact.html form action: /mail.php
+- booking.html form action: /booking-mail.php
+- Both PHP files send to: thekaraimarina@gmail.com
+- Required fields: name and phone.
+- Honeypot spam protection added.
+- enquiry-log.txt backup logging is attempted if hosting permissions allow.
+
+Important:
+- PHP mail will send only if the hosting server supports PHP mail().
+- If mail does not arrive, enable domain email/SMTP in hosting or replace mail() with PHPMailer SMTP.
+- After upload, test both contact and booking forms on the live domain.
+
+
+Final stats redesign applied: 25+ / 20+ / 500+ cards now use separate premium cards with no text overlap on desktop or mobile.
